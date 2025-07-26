@@ -18,7 +18,7 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 - React.js  (In learning Basic)
 
 #### 🛠️ Backend
-- Node.js  
+- Node.js  (Learning)
 - Firebase  
 
 #### 🗃️ Database
