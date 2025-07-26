@@ -15,7 +15,7 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 - Bootstrap  
 - Tailwind CSS  
 - JavaScript  
-- React.js  
+- React.js  (In learning Basic)
 
 #### 🛠️ Backend
 - Node.js  
