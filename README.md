@@ -1,49 +1,74 @@
 # Hi 👋, I'm Muhammad Talha
 
-I'm a front-end developer currently expanding into full-stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
+I'm a front-end developer currently expanding into full‑stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
 
 🎓 **BS in Software Engineering** — Sir Syed University (Graduating 2027)  
-📚 **Full-Stack Bootcamp Trainee** — Saylani Mass IT Training (2024–present)
+📚 **Full‑Stack Bootcamp Trainee** — Saylani Mass IT Training (2024–present)
 
 ---
 
 ### 💻 Tech Stack
-- 🌐 HTML, CSS, JavaScript  
-- 🎨 Bootstrap, Tailwind CSS  
-- ⚛️ React.js  
-- 🔥 Firebase  
-- 🌍 Node.js (basic knowledge)  
-- 🛠️ Git, GitHub, GitHub Pages  
+
+#### 🖥️ Frontend
+- HTML  
+- CSS  
+- Bootstrap  
+- Tailwind CSS  
+- JavaScript  
+- React.js  
+
+#### 🛠️ Backend
+- Node.js  
+- Firebase  
+
+#### 🗃️ Database
+- Firebase Firestore  
+- (Learning) MongoDB  
+
+#### 🔧 Tools & Version Control
+- Git  
+- GitHub  
+- GitHub Pages  
+- VS Code  
 
 ---
 
 ### 🧠 Currently Learning
-- Next.js, Express.js, MongoDB  
-- Advanced React & Firebase integration  
-- DevOps fundamentals  
+- Next.js  
+- Express.js  
+- MongoDB  
+- Advanced Firebase integration  
+- DevOps basics  
+- Python  
 
 ---
 
-### 📌 Academic Projects
-- 🌦️ **Weather App** – Real-time forecast using OpenWeather API  
-- ➗ **Calculator App** – Arithmetic calculator with responsive UI  
+### 📌 Projects
+
+- 🌦️ **Weather App** – Real‑time forecast using OpenWeather API  
+- ➗ **Calculator App** – Built with React – [View Repository](https://github.com/Talhah2005/calculator-react)  
 - 🐍 **Snake Game** – JavaScript + Canvas interactive game  
-- ❌⭕ **Tic Tac Toe** – 2-player logic-based game  
-- ✅ **To-Do CRUD App** – Task management with local storage  
+- ❌⭕ **Tic Tac Toe** – 2‑player logic‑based game  
+- ✅ **To‑Do CRUD App** – Built with React – [View Repository](https://github.com/Talhah2005/todo-react)  
+- 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
 
 ---
 
 ### 📫 Connect with me
+
 - 📧 Email: [talhayameen2005@gmail.com](mailto:talhayameen2005@gmail.com)  
+- 📱 Phone: +92 334 3449349  
 - 🔗 LinkedIn: [linkedin.com/in/muhammad-talha-47627129a](https://www.linkedin.com/in/muhammad-talha-47627129a/)  
-- 💻 GitHub: [github.com/Talhah2005](https://github.com/Talhah2005)
+- 💻 GitHub: [github.com/Talhah2005](https://github.com/Talhah2005)  
+- 📸 Instagram: [@iamtalha_yameen05](https://www.instagram.com/iamtalha_yameen05/)  
+- 👤 Facebook: [Mohammad Talha](https://www.facebook.com/mohammad.talha.157912)
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,firebase,mongodb,git,github,vscode,python" />
 </p>
 
 ---
@@ -57,7 +82,6 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 ### 🔥 Motivation
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> I believe in writing clean, reusable, and well-documented code with a strong focus on UI/UX.
+> I believe in writing clean, reusable, and well‑documented code with a strong focus on UI/UX.
 
 ---
-
