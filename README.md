@@ -46,10 +46,11 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 ### 📌 Projects
 
 - 🌦️ **Weather App** – Real‑time forecast using OpenWeather API  
-- ➗ **Calculator App** – Built with React – [View Repository](https://github.com/Talhah2005/calculator-react)  
+- ➗ **Calculator App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Calculator)  
+- 💱 **Currency Converter App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Currency%20Convertor)  
 - 🐍 **Snake Game** – JavaScript + Canvas interactive game  
 - ❌⭕ **Tic Tac Toe** – 2‑player logic‑based game  
-- ✅ **To‑Do CRUD App** – Built with React – [View Repository](https://github.com/Talhah2005/todo-react)  
+- ✅ **To‑Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
 - 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
 
 ---
