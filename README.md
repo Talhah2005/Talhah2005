@@ -39,7 +39,7 @@ I'm a front-end developer currently expanding into fullâ€‘stack development. Iâ€
 - MongoDB  
 - Advanced Firebase integration  
 - DevOps basics  
-- Python  
+- Python (Basic)
 
 ---
 
