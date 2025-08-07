@@ -74,12 +74,6 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### 🔥 Motivation
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
