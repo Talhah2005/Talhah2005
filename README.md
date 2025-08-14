@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Talha
 
-I'm a front-end developer currently expanding into full‑stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
+I'm a front-end developer currently expanding into full-stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
 
 🎓 **BS in Software Engineering** — Sir Syed University (Graduating 2027)  
 📚 **Full Stack Web Development Bootcamp** — Saylani Mass IT Training (2024–present)
@@ -45,13 +45,14 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 
 ### 📌 Projects
 
-- 🌦️ **Weather App** – Real‑time forecast using OpenWeather API  
+- 🌦️ **Weather App** – Real-time forecast using OpenWeather API  
 - ➗ **Calculator App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Calculator)  
 - 💱 **Currency Converter App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Currency%20Convertor)  
 - 🐍 **Snake Game** – JavaScript + Canvas interactive game  
-- ❌⭕ **Tic Tac Toe** – 2‑player logic‑based game  
-- ✅ **To‑Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
+- ❌⭕ **Tic Tac Toe** – 2-player logic-based game  
+- ✅ **To-Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
 - 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
+- 📋 **Task Manager App** – Task management application with CRUD features – [View Repository](https://github.com/Talhah2005/Task-Manager)  
 
 ---
 
@@ -74,9 +75,16 @@ I'm a front-end developer currently expanding into full‑stack development. I�
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
 ### 🔥 Motivation
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> I believe in writing clean, reusable, and well‑documented code with a strong focus on UI/UX.
-
----
+> I believe in writing clean, reusable, and well-documented code with a strong focus on UI/UX.
