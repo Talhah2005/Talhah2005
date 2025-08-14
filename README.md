@@ -52,7 +52,8 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 - ❌⭕ **Tic Tac Toe** – 2-player logic-based game  
 - ✅ **To-Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
 - 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
-- 📋 **Task Manager App** – Task management application with CRUD features – [View Repository](https://github.com/Talhah2005/Task-Manager)  
+- 📋 **Task Manager App** – Task management with Firebase Auth + Firestore — [Live Demo](https://task-manager-plum-delta.vercel.app) · [View Repository](https://github.com/Talhah2005/Task-Manager-)
+
 
 ---
 
