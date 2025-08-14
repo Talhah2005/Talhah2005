@@ -78,8 +78,8 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight " height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight &hide=python" height="160" />
 </p>
 
 ---
