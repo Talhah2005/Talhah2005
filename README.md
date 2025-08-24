@@ -18,12 +18,13 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 - React.js  (In learning Basic)
 
 #### 🛠️ Backend
-- Node.js  (Learning)
+- Node.js  (Learning)  
 - Firebase  
+- Express.js (Learning)
 
 #### 🗃️ Database
 - Firebase Firestore  
-- (Learning) MongoDB  
+- MongoDB (Learning)
 
 #### 🔧 Tools & Version Control
 - Git  
@@ -49,11 +50,11 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 - ➗ **Calculator App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Calculator)  
 - 💱 **Currency Converter App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Currency%20Convertor)  
 - 🐍 **Snake Game** – JavaScript + Canvas interactive game  
-- ❌⭕ **Tic Tac Toe** – 2-player logic-based game  
+- ❌⭕ **Tic Tac Toe** – 2-player logic-based game – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Tic%20Tac%20Toe%20Game)  
 - ✅ **To-Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
 - 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
-- 📋 **Task Manager App** – Task management with Firebase Auth + Firestore — [Live Demo](https://task-manager-plum-delta.vercel.app) · [View Repository](https://github.com/Talhah2005/Task-Manager-)
-
+- 📋 **Task Manager App** – Task management with Firebase Auth + Firestore — [Live Demo](https://task-manager-plum-delta.vercel.app) · [View Repository](https://github.com/Talhah2005/Task-Manager-)  
+- ⚙️ **Simple CRUD App (Backend)** – Node.js + Express + MongoDB – [View Repository](https://github.com/Talhah2005/Simple-CRUD-App-Backend)
 
 ---
 
@@ -80,9 +81,8 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&langs_count=8" height="160" />
 </p>
-
 
 ---
 
