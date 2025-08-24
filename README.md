@@ -77,14 +77,17 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talhah2005&theme=tokyonight&hide_border=false" height="160" />
+</p>
+
 
 ### 🔥 Motivation
 
