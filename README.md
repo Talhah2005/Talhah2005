@@ -24,7 +24,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 #### 🗃️ Database
 - Firebase Firestore  
-- MongoDB (Learning)
+- MongoDB 
 
 #### 🔧 Tools & Version Control
 - Git  
