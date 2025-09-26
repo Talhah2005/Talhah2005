@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Talhah
+# Hi 👋, I'm Muhammad Talha
 
 I'm a front-end developer currently expanding into full-stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
 
