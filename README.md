@@ -20,7 +20,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 #### 🛠️ Backend
 - Node.js  
 - Firebase  
-- Express.js (Learning)
+- Express.js 
 
 #### 🗃️ Database
 - Firebase Firestore  
