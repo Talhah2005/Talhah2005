@@ -58,6 +58,15 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
+### 🎯 Freelance Projects
+
+- 🏫 **Quark School Website**  
+  [View Repository](https://github.com/Talhah2005/Quark-School-Website)  
+  *A dynamic school website built using the MERN stack. It features an admin dashboard for managing announcements, gallery images, and banner carousel images. Includes WhatsApp and Instagram integration for easy communication. Content updates (announcements, banners, gallery) are fully dynamic and managed through the dashboard.*  
+  **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
 ### 📫 Connect with me
 
 - 📧 Email: [talhayameen2005@gmail.com](mailto:talhayameen2005@gmail.com)  
