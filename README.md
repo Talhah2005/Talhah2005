@@ -65,6 +65,11 @@ I'm a front-end developer currently expanding into full-stack development. I’m
   *A dynamic school website built using the MERN stack. It features an admin dashboard for managing announcements, gallery images, and banner carousel images. Includes WhatsApp and Instagram integration for easy communication. Content updates (announcements, banners, gallery) are fully dynamic and managed through the dashboard.*  
   **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
+- 🏬 **Society Maintenance Application**  
+  [View Repository](https://github.com/Talhah2005/Society-Maintenance-Application)  
+  *A full-stack mobile solution for managing residential society maintenance bills and collections. Built with React Native (frontend), Express.js + Node.js (backend), and MongoDB. The app supports three roles—Admin, Team Members (cash collectors), and Residents—for secure billing, payment tracking, and reporting. Features include email/WhatsApp notifications, monthly/yearly payment history, user/team management, and dues summary. The admin dashboard provides comprehensive control over users, teams, payments, and reports, making society financial management efficient and transparent.*  
+  **Tech Stack:** React Native, Express.js, Node.js, MongoDB
+
 ---
 
 ### 📫 Connect with me
