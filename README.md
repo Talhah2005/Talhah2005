@@ -7,26 +7,26 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-### 🖥️ Frontend
+#### 🖥️ Frontend
 - HTML  
 - CSS  
 - Bootstrap  
 - Tailwind CSS  
 - JavaScript  
-- React.js (Learning Basic)
+- React.js  (In learning Basic)
 
-### 🛠️ Backend
+#### 🛠️ Backend
 - Node.js  
 - Firebase  
 - Express.js 
 
-### 🗃️ Database
+#### 🗃️ Database
 - Firebase Firestore  
 - MongoDB 
 
-### 🔧 Tools & Version Control
+#### 🔧 Tools & Version Control
 - Git  
 - GitHub  
 - GitHub Pages  
@@ -34,8 +34,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 🧠 Currently Learning
-
+### 🧠 Currently Learning
 - Next.js  
 - Express.js  
 - MongoDB  
@@ -45,7 +44,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 📌 Projects
+### 📌 Projects
 
 - 🌦️ **Weather App** – Real-time forecast using OpenWeather API  
 - ➗ **Calculator App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Calculator)  
@@ -59,7 +58,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 🎯 Freelance Projects
+### 🎯 Freelance Projects
 
 - 🏫 **Quark School Website**  
   [View Repository](https://github.com/Talhah2005/Quark-School-Website)  
@@ -73,7 +72,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 📫 Connect with me
+### 📫 Connect with me
 
 - 📧 Email: [talhayameen2005@gmail.com](mailto:talhayameen2005@gmail.com)  
 - 📱 Phone: +92 334 3449349  
@@ -84,7 +83,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,firebase,mongodb,git,github,vscode,python" />
@@ -92,24 +91,19 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talhah2005&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Talhah2005&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
----
-
-## 🔥 Motivation
+### 🔥 Motivation
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 > I believe in writing clean, reusable, and well-documented code with a strong focus on UI/UX.
