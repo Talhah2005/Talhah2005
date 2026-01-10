@@ -35,12 +35,9 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 ---
 
 ### 🧠 Currently Learning
-- Next.js  
-- Express.js  
-- MongoDB  
-- Advanced Firebase integration  
-- DevOps basics  
-- Python (Basic)
+- Next.js    
+- DevOps 
+- Python 
 
 ---
 
