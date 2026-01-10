@@ -95,19 +95,25 @@ Additionally, the system allows downloading monthly and yearly Excel reports for
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
+<!-- These images are cached in the repository via the workflow .github/workflows/cache-github-stats.yml -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" />
+  <img src="./images/github-stats.png" alt="GitHub stats" height="160" />
+  <img src="./images/top-langs.png" alt="Top languages" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talhah2005&theme=tokyonight&hide_border=false" height="160" />
+  <img src="./images/streak-stats.png" alt="GitHub streak stats" height="160" />
 </p>
 
+Note: If you see a broken image immediately after adding these files, run the Action manually (Actions → Cache GitHub Stats Images → Run workflow). The workflow will download the images from the stats service and commit them to the images/ directory. After that the images will render reliably from your repository.
+
+---
 
 ### 🔥 Motivation
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 > I believe in writing clean, reusable, and well-documented code with a strong focus on UI/UX.
+
+---
