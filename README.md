@@ -67,7 +67,11 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 
 - 🏬 **Society Maintenance Application**  
   [View Repository](https://github.com/Talhah2005/Society-Maintenance-Application)  
-  *A full-stack mobile solution for managing residential society maintenance bills and collections. Built with React Native (frontend), Express.js + Node.js (backend), and MongoDB. The app supports three roles—Admin, Team Members (cash collectors), and Residents—for secure billing, payment tracking, and reporting. Features include email/WhatsApp notifications, monthly/yearly payment history, user/team management, and dues summary. The admin dashboard provides comprehensive control over users, teams, payments, and reports, making society financial management efficient and transparent.*  
+  *A full-stack mobile solution for managing residential society maintenance bills and collections. Built with React Native (frontend), Express.js + Node.js (backend), and MongoDB. The application supports three roles: Admin, Team Members (cash collectors), and Users/Residents ensuring secure and transparent maintenance collection and management.
+
+Key features include maintenance bill generation, secure payment tracking, complaints management, email notifications, monthly and yearly payment history, user and team management, and detailed dues summaries. The Admin dashboard provides full control over users, teams, payments, and reporting.
+
+Additionally, the system allows downloading monthly and yearly Excel reports for maintenance charge collections, dues summaries, and total society collections till date, enabling efficient financial analysis and record-keeping.*  
   **Tech Stack:** React Native, Express.js, Node.js, MongoDB
 
 ---
