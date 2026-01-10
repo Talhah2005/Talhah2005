@@ -3,7 +3,7 @@
 I'm a front-end developer currently expanding into full-stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
 
 🎓 **BS in Software Engineering** — Sir Syed University (Graduating 2027)  
-📚 **Full Stack Web Development Bootcamp** — Saylani Mass IT Training (2024–present)
+📚 **Full Stack Web Development Course** — Saylani Mass IT Training
 
 ---
 
@@ -15,7 +15,7 @@ I'm a front-end developer currently expanding into full-stack development. I’m
 - Bootstrap  
 - Tailwind CSS  
 - JavaScript  
-- React.js  (In learning Basic)
+- React.js 
 
 #### 🛠️ Backend
 - Node.js  
