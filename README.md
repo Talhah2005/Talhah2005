@@ -10,78 +10,76 @@
 
 </div>
 
-I’m a 7th-semester Software Engineering student focused on **DevOps, Cloud Engineering, and production deployment workflows**. I enjoy building full-stack applications, automating delivery pipelines, and deploying reliable services on Linux servers with Docker, Nginx, and AWS.
+Software Engineering undergraduate focused on **DevOps, Cloud Engineering, and production deployment workflows**. I build full-stack applications, automate CI/CD pipelines, and deploy reliable services on Linux infrastructure using Docker, Nginx, GitHub Actions, and AWS.
 
-- 🎓 Bachelor of Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, expected 2027
+- 🎓 Bachelor of Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, Karachi
 - ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-- 🧰 Currently exploring **AWS Developer Associate, CI/CD, containers, cloud infrastructure, and production troubleshooting**
+- 🧰 Interested in **AWS, Docker, CI/CD, infrastructure automation, Linux deployment, and observability**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Core Projects
 
 ### [HealthMate — Automated CI/CD Production Deployment](https://github.com/Talhah2005/HealthCare)
-**GitHub Actions · Docker · Nginx · Linux VPS** · [Live site](https://healthmate-talha.duckdns.org)
+**GitHub Actions · Docker · Docker Compose · Nginx · Linux VPS** • [Live Demo](https://healthmate-talha.duckdns.org)
 
-- Containerized a React/Vite, Node.js/Express, and MongoDB app with Docker Compose using multi-stage builds, persistent volumes, custom networks, and health checks.
-- Implemented GitHub Actions pipelines for pull-request validation, Docker image builds, and publishing to Docker Hub with both `latest` and immutable commit-SHA tags.
-- Automated SSH-based deployment to an Ubuntu VPS with post-deployment health verification.
-- Configured Nginx reverse proxy, DuckDNS, and Let’s Encrypt HTTPS while fixing a production build-time API issue through the PR → CI → CD workflow.
+- Containerized a React/Vite + Node.js/Express + MongoDB application using Docker Compose, multi-stage builds, custom networks, persistent volumes, and health checks.
+- Built a GitHub Actions CI/CD pipeline for pull-request validation, Docker image builds, and publishing to Docker Hub using both `latest` and immutable Git commit-SHA tags.
+- Automated deployment to an Ubuntu VPS over SSH and added post-deployment health verification.
+- Configured Nginx reverse proxy, DuckDNS, and Let’s Encrypt HTTPS while resolving a production issue through the PR → CI → CD workflow.
 
 ### [Donation & Zakat Management System](https://github.com/Talhah2005/Donation-Zakat-Management-System-Backend)
 **Docker · Docker Compose · MongoDB · Linux VPS**
 
-- Containerized the React/Vite frontend and Node.js/Express backend as separate images.
-- Orchestrated the full stack with Docker Compose, custom networks, container DNS, environment variables, health checks, and persistent storage.
-- Published container images to Docker Hub and deployed the stack to a Linux VPS.
+- Containerized the frontend and backend separately, with a multi-stage React build served through Nginx.
+- Orchestrated the full stack using Docker Compose, health checks, environment variables, container networking, and persistent storage.
+- Published Docker images and deployed the application on a Linux VPS for end-to-end service delivery.
 
 ### AWS Cloud Hands-on Labs
 **AWS · EC2 · IAM · VPC · S3 · RDS · CloudWatch · Lambda**
 
 - Launched EC2 instances and worked with Elastic Load Balancing.
-- Practised IAM users, roles, and least-privilege policies.
-- Explored VPC networking, S3 storage, RDS databases, CloudWatch monitoring, Lambda serverless workflows, and cloud cost/security fundamentals.
+- Practiced IAM role design, least-privilege access, and policy-based access control.
+- Explored VPC architecture, S3 storage, RDS, CloudWatch monitoring, Lambda serverless patterns, and cloud cost/security fundamentals.
 
 ---
 
-## 🤝 Freelance Projects
+## 💼 Freelance Projects
 
 ### [Quark School Website](https://github.com/Talhah2005/Quark-School-Website)
 **React.js · Node.js · Express.js · MongoDB**
 
-A MERN-stack school website with an admin dashboard for managing announcements, gallery images, and banner carousel content, along with WhatsApp and Instagram integrations.
+- Built a MERN stack school website with an admin dashboard for managing announcements, gallery content, and banner carousel updates.
+- Integrated WhatsApp and Instagram features to improve communication and engagement.
 
 ### Pioneer Park City — Society Management Application
-**Docker · Linux VPS · Nginx** · [Google Play Store](https://play.google.com/store/apps/details?id=com.pioneerparkacity.app&pli=1)
+**Docker · Linux VPS · Nginx** • [Google Play Store](https://play.google.com/store/apps/details?id=com.pioneerparkacity.app&pli=1)
 
-- Dockerized and deployed the backend of a live society-management application to a Hostinger VPS.
-- Configured Nginx and a custom domain to support authentication, bill/payment tracking, complaints, and notifications.
+- Dockerized and deployed the backend of a live society-management app to a Hostinger VPS.
+- Configured Nginx and a custom domain to support authentication, bill tracking, complaints management, notifications, and payments.
 
 ---
 
-## 💼 Experience
+## 🧑‍💻 Experience
 
 ### Node.js Developer Intern
-**Staunchtie Innovations** · Dec 2025 – Jun 2026
+**Staunchtie Innovations** • Dec 2025 – Jun 2026
 
-- Developed Node.js/Express REST APIs with MongoDB and JWT authentication.
-- Integrated third-party services, performed debugging and testing, and contributed to code reviews.
+- Developed REST APIs using Node.js and Express.js with MongoDB and JWT authentication.
+- Integrated third-party services, performed debugging and testing, and supported code reviews.
 - Worked on deployment exposure and production-facing backend improvements.
 
 [Experience Letter](https://drive.google.com/file/d/1B82x3eOXUEJrLzO4fuZPfkIT9F8iIxpt/view?usp=sharing)
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Technical Skills
 
-| Area | Tools & Technologies |
-|---|---|
-| **Cloud / AWS** | EC2, IAM, VPC, S3, RDS, ELB, CloudWatch, Lambda, Route 53 |
-| **CI/CD & Version Control** | GitHub Actions, Git, GitHub, Pull Requests, Branch Protection, CI/CD Pipelines |
-| **Containers** | Docker, Docker Compose, Docker Hub, Buildx, Multi-stage Builds |
-| **Linux / Deployment** | Linux, SSH, Nginx, Hostinger VPS, Certbot (SSL), Reverse Proxy |
-| **Development** | Node.js, Express.js, REST APIs, MongoDB, React.js |
-| **Tools** | VS Code, Postman, PowerShell, Docker Desktop |
+- **Cloud / AWS:** EC2, IAM, VPC, S3, RDS, ELB, CloudWatch, Lambda, Route 53
+- **CI/CD / Version Control:** GitHub Actions, Git, GitHub, Pull Requests, Branch Protection, CI/CD Pipelines
+- **Containers / Deployment:** Docker, Docker Compose, Docker Hub, Buildx, Multi-stage Builds, Linux, SSH, Nginx, VPS, Certbot, Reverse Proxy, HTTPS
+- **Development:** Node.js, Express.js, REST APIs, MongoDB, React.js
+- **Tools:** VS Code, Postman, PowerShell, Docker Desktop
 
 ---
 
