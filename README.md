@@ -5,8 +5,9 @@
 ### Junior DevOps & Cloud Engineer
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/671969bc-cd22-47f0-bfc7-483100ec7978)
-[![GitHub](https://img.shields.io/badge/GitHub-Talhah2005-181717?logo=github)](https://github.com/Talhah2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/muhammad-talha-47627129a/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?logo=github&logoColor=white)](https://github.com/Talhah2005)
+[![Repositories](https://img.shields.io/badge/GitHub-Explore%20Repositories-2ea44f?logo=github&logoColor=white)](https://github.com/Talhah2005?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-47627129a/)
 
 </div>
 
@@ -99,9 +100,11 @@ Software Engineering undergraduate focused on **DevOps, Cloud Engineering, and p
 - GitHub: [Talhah2005](https://github.com/Talhah2005)
 - Location: Karachi, Pakistan
 
+---
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" alt="Top Languages" />
+[![Visit GitHub Profile](https://img.shields.io/badge/Visit-GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talhah2005)
+[![Browse Public Repositories](https://img.shields.io/badge/Browse-Public%20Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talhah2005?tab=repositories)
 
 </div>
