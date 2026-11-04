@@ -1,110 +1,62 @@
-# Hi 👋, I'm Muhammad Talha
+# Hi, I'm Muhammad Talha 👋
 
-I'm a front-end developer currently expanding into full-stack development. I’m passionate about crafting responsive, user-friendly, and scalable web applications.
+I'm a Software Engineering undergraduate focused on **DevOps and Cloud Engineering**. I enjoy building and deploying applications, automating delivery workflows, and learning how to run reliable services in production.
 
-🎓 **BS in Software Engineering** — Sir Syed University (Graduating 2027)  
-📚 **Full Stack Web Development Course** — Saylani Mass IT Training
+I'm an **AWS Certified Cloud Practitioner (CLF-C02)** with hands-on experience using Docker and Docker Compose, GitHub Actions, Linux VPS environments, Nginx, and HTTPS. I also build full-stack applications with Node.js, Express, MongoDB, and React.
 
----
+- 🎓 Bachelor of Software Engineering student at **Sir Syed University of Engineering & Technology (SSUET)**, expected 2027
+- ☁️ AWS Certified Cloud Practitioner; currently studying for **AWS Developer – Associate (DVA-C02)**
+- 🧰 Interested in CI/CD, containers, cloud infrastructure, and production deployments
 
-### 💻 Tech Stack
+## DevOps & Cloud Projects
 
-#### 🖥️ Frontend
-- HTML  
-- CSS  
-- Bootstrap  
-- Tailwind CSS  
-- JavaScript  
-- React.js 
+### [HealthMate — Automated CI/CD Production Deployment](https://github.com/Talhah2005/HealthCare)
+A full-stack application deployed to a Linux VPS, with a [live site](https://healthmate-talha.duckdns.org).
 
-#### 🛠️ Backend
-- Node.js  
-- Firebase  
-- Express.js 
+- Containerized the React/Vite, Node.js/Express, and MongoDB services with Docker Compose, multi-stage builds, health checks, networks, and persistent storage.
+- Set up GitHub Actions for pull-request validation and automated Docker image builds and publishing, using both `latest` and immutable commit-SHA tags.
+- Automated VPS deployment over SSH and added post-deployment health verification.
+- Configured Nginx, DuckDNS, and Let's Encrypt HTTPS; troubleshot a production build configuration issue.
 
-#### 🗃️ Database
-- Firebase Firestore  
-- MongoDB 
+### [Donation & Zakat Management System](https://github.com/Talhah2005/Donation-Zakat-Management-System-Backend)
+Containerized and deployed a React/Vite frontend, Node.js/Express backend, and MongoDB stack. Used Docker Compose, container DNS, health checks, persistent storage, and Docker Hub images.
 
-#### 🔧 Tools & Version Control
-- Git  
-- GitHub  
-- GitHub Pages  
-- VS Code  
+### Pioneer Park City — Production Application
+A live [Google Play application](https://play.google.com/store/apps/details?id=com.pioneerparkacity.app&pli=1). Dockerized and deployed its backend to a Hostinger VPS using Nginx and a custom domain. The application supports authentication, bill and payment tracking, complaints, and notifications.
 
----
+### AWS Cloud Hands-on Labs
+Practiced launching EC2 instances, configuring IAM users, roles, and policies, and working with Elastic Load Balancing. Also explored VPC, S3, RDS, CloudWatch, Lambda, AWS Budgets, and cloud security, networking, and pricing concepts.
 
-### 🧠 Currently Learning
-- Next.js    
-- DevOps 
-- Python 
+## Experience
 
----
+**Node.js Developer Intern — Staunchtie Innovations** · Dec 2025–Jun 2026
 
-### 📌 Projects
+Developed Node.js/Express REST APIs with MongoDB and JWT authentication. Worked with third-party integrations, testing, debugging, code reviews, and deployment. [Experience letter](https://drive.google.com/file/d/1B82x3eOXUEJrLzO4fuZPfkIT9F8iIxpt/view?usp=sharing)
 
-- 🌦️ **Weather App** – Real-time forecast using OpenWeather API  
-- ➗ **Calculator App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Calculator)  
-- 💱 **Currency Converter App** – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Currency%20Convertor)  
-- 🐍 **Snake Game** – JavaScript + Canvas interactive game  
-- ❌⭕ **Tic Tac Toe** – 2-player logic-based game – [View Repository](https://github.com/Talhah2005/JS-Projects/tree/master/Tic%20Tac%20Toe%20Game)  
-- ✅ **To-Do CRUD App** (React) – [View Repository](https://github.com/Talhah2005/ToDo-App-using-React.js/tree/master/ToDo%20App)  
-- 🗂️ **OJT Monitoring System** – Internship tracking system – [View Repository](https://github.com/Talhah2005/OJT-Monitoring-System)  
-- 📋 **Task Manager App** – Task management with Firebase Auth + Firestore — [Live Demo](https://task-manager-plum-delta.vercel.app) · [View Repository](https://github.com/Talhah2005/Task-Manager-)  
-- ⚙️ **Simple CRUD App (Backend)** – Node.js + Express + MongoDB – [View Repository](https://github.com/Talhah2005/Simple-CRUD-App-Backend)
+## Skills
 
----
+- **Cloud:** AWS (EC2, IAM, VPC, S3, RDS, ELB, CloudWatch, Lambda, Route 53)
+- **DevOps & delivery:** GitHub Actions, CI/CD, Git, pull requests, branch protection
+- **Containers & deployment:** Docker, Docker Compose, Docker Hub, Buildx, multi-stage builds, Linux, SSH, Nginx, VPS, Certbot, reverse proxies, TLS/HTTPS
+- **Development:** Node.js, Express.js, REST APIs, MongoDB, React.js
+- **Tools:** VS Code, Postman, PowerShell, Docker Desktop
 
-### 🎯 Freelance Projects
+## Education & Certifications
 
-- 🏫 **Quark School Website**  
-  [View Repository](https://github.com/Talhah2005/Quark-School-Website)  
-  *A dynamic school website built using the MERN stack. It features an admin dashboard for managing announcements, gallery images, and banner carousel images. Includes WhatsApp and Instagram integration for easy communication. Content updates (announcements, banners, gallery) are fully dynamic and managed through the dashboard.*  
-  **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+- **Bachelor of Software Engineering**, Sir Syed University of Engineering & Technology — expected 2027
+- **Full-Stack Development Bootcamp**, Saylani IT Program — 2024–2025
+- **AWS Certified Cloud Practitioner (CLF-C02)** — [Verify on Credly](https://www.credly.com/badges/671969bc-cd22-47f0-bfc7-483100ec7978)
+- **AWS Developer – Associate (DVA-C02)** — in progress
 
-- 🏬 **Society Maintenance Application**  
-  [View Repository](https://github.com/Talhah2005/Society-Maintenance-Application)  
-  *A full-stack mobile solution for managing residential society maintenance bills and collections. Built with React Native (frontend), Express.js + Node.js (backend), and MongoDB. The application supports three roles: Admin, Team Members (cash collectors), and Users/Residents ensuring secure and transparent maintenance collection and management.
+## Connect
 
-Key features include maintenance bill generation, secure payment tracking, complaints management, email notifications, monthly and yearly payment history, user and team management, and detailed dues summaries. The Admin dashboard provides full control over users, teams, payments, and reporting.
-
-Additionally, the system allows downloading monthly and yearly Excel reports for maintenance charge collections, dues summaries, and total society collections till date, enabling efficient financial analysis and record-keeping.*  
-  **Tech Stack:** React Native, Express.js, Node.js, MongoDB
+- 📧 [talhayameen2005@gmail.com](mailto:talhayameen2005@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-talha-47627129a/)
+- 💻 [GitHub](https://github.com/Talhah2005)
 
 ---
-
-### 📫 Connect with me
-
-- 📧 Email: [talhayameen2005@gmail.com](mailto:talhayameen2005@gmail.com)  
-- 📱 Phone: +92 334 3449349  
-- 🔗 LinkedIn: [linkedin.com/in/muhammad-talha-47627129a](https://www.linkedin.com/in/muhammad-talha-47627129a/)  
-- 💻 GitHub: [github.com/Talhah2005](https://github.com/Talhah2005)  
-- 📸 Instagram: [@iamtalha_yameen05](https://www.instagram.com/iamtalha_yameen05/)  
-- 👤 Facebook: [Mohammad Talha](https://www.facebook.com/mohammad.talha.157912)
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,firebase,mongodb,git,github,vscode,python" />
-</p>
-
----
-
-### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talhah2005&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhah2005&layout=compact&theme=tokyonight&hide=python&langs_count=8" height="160" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talhah2005&theme=tokyonight&hide_border=false" height="160" />
-</p>
-
-
-### 🔥 Motivation
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> I believe in writing clean, reusable, and well-documented code with a strong focus on UI/UX.
